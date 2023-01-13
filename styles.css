@@ -2,6 +2,7 @@ body{
        margin: 0;
        padding: 0;
        font-family: sans-serif;
+       height: 100vh;
 }
 header{
        width: 100%;
@@ -49,10 +50,10 @@ header{
 }
 .author{
        padding-left: 35%;
-       font-size: 48px;
+       font-size: 36px;
 }
 .quote{
-       font-size: 24px;
+       font-size: 16px;
        width: 50%;
        justify-content: center;
 }

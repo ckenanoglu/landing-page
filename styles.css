@@ -74,8 +74,27 @@ header{
        width: 250px;
        height: auto;
 }
+.bottom-div{
+       display: flex;
+       margin: 100px 200px 100px;
+       justify-content: space-evenly;
+       background-color: #3382f6;
+       color: #f9faf8;
+       border-radius: 8px;
+       padding: 40px 0 40px;
+       align-items: center;
 
+}
+.bottom-left{
+       font-size: 18px;
+}
 
+#bot-button{
+       border-color: #f9faf8;
+       border-width: 5px;
+       border: solid;
+       height: 50px;
+}
 
 
 

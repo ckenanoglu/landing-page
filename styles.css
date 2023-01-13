@@ -96,7 +96,28 @@ header{
        height: 50px;
 }
 
+.info{
+       margin: 50px 0 50px;
+       display: flex;
+       justify-content: center;
+       gap: 50px;
 
+}
+
+.info-img{
+       width: 150px;
+       height: 150px;
+       border: solid;
+       border-radius: 8px;
+       border-color: #3382f6;
+}
+.part-info{
+       display: flex;
+       flex-direction: column;
+       flex-wrap: wrap;
+       color: #74767afb;
+       width: 150px;
+}
 
 footer{
        min-width: 100%;

@@ -36,12 +36,26 @@ header{
        color: #f9faf8;
 }
 
-.quote{
+.quote-div{
+       padding: 40px 200px 40px;
        background-color: #e5e7eb;
        color: #1f2937;
        font-style: italic;
-}
+       display: flex ;
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
 
+}
+.author{
+       padding-left: 35%;
+       font-size: 48px;
+}
+.quote{
+       font-size: 24px;
+       width: 50%;
+       justify-content: center;
+}
 .sign-up{
        background-color: #3382f6;
        color: #f9faf8;
